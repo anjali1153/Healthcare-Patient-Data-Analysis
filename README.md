@@ -57,3 +57,10 @@ Column Name
 3. Removed duplicate records
 4. Identified and analyzed outliers
 5. Converted data types for analysis
+
+3️⃣ Feature Engineering
+1. Created meaningful features such as:
+2. age_group
+3. cost_category
+4. stay_type
+5. Aggregated cost and stay metrics
