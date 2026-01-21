@@ -64,3 +64,13 @@ Column Name
 3. cost_category
 4. stay_type
 5. Aggregated cost and stay metrics
+
+4️⃣ Exploratory Data Analysis (EDA)
+
+Patient demographics analysis
+
+Diagnosis and department trends
+
+Cost distribution and outlier analysis
+
+Length of stay patterns
