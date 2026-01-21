@@ -37,3 +37,23 @@ Column Name
 13. age_group
 14. cost_category
 15. stay_type	        
+
+## Tools & Technologies Used
+1. Database: MySQL
+2. Programming Language: Python
+3. Libraries: Pandas, NumPy, Matplotlib, Seaborn
+4. Visualization Tool: Power BI
+5. Version Control: Git & GitHub
+
+## Project Workflow
+1️⃣ Data Storage (MySQL) :
+1. Created database and tables
+2. Imported raw healthcare data
+3. Performed basic validation using SQL queries
+
+2️⃣ Data Cleaning & Processing (Python)
+1. Connect with MYSQL for getting data in python
+2. Handled missing values
+3. Removed duplicate records
+4. Identified and analyzed outliers
+5. Converted data types for analysis
