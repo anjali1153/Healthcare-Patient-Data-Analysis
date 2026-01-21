@@ -66,11 +66,12 @@ Column Name
 5. Aggregated cost and stay metrics
 
 4️⃣ Exploratory Data Analysis (EDA)
+1. Patient demographics analysis
+2. Diagnosis and department trends
+3. Cost distribution and outlier analysis
+4. Length of stay patterns
 
-Patient demographics analysis
-
-Diagnosis and department trends
-
-Cost distribution and outlier analysis
-
-Length of stay patterns
+5️⃣ Data Visualization (Power BI)
+1. Designed multiple interactive dashboards
+2. Implemented slicers and KPIs
+3. Created business-focused insights
