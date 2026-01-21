@@ -21,19 +21,19 @@ Rows: 50,000
 Columns: 15
 Columns Used
 
-Column Name	              Description
-patient_id	         Unique patient identifier
-age	                     Patient age
-gender                 	Male / Female
-hospital	              Hospital name
-department       	    Hospital department
-diagnosis         	     Medical diagnosis
-length_of_stay_days 	Number of days admitted
-treatment_cost	     Total treatment cost
-insurance_type	    Private / Government / None
-admission_type	      Emergency / Planned
-discharge_status	    Recovered / Improved
-admission_year	      Year of admission
-age_group	        Child / Adult / Senior Citizen
-cost_category     	Low / Medium / High
-stay_type	        Short Stay / Long Stay
+Column Name	              
+1. patient_id
+2. age
+3. gender
+4. hospital
+5. department
+6. diagnosis
+7. length_of_stay_days
+8. treatment_cost
+9. insurance_type
+10. admission_type
+11. discharge_status
+12. admission_year
+13. age_group
+14. cost_category
+15. stay_type	        
